@@ -5,7 +5,7 @@ while h>0:
  digit=h%10
  u+=digit**3
  h//=10
-if y==p:
+if y==u:
  print("yes")
 else:
  print("no")
